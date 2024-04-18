@@ -32,8 +32,10 @@ check for float return type
 True
 """
 
+import typing
 
-def sum_list(input_list: list[float]) -> float:
+
+def sum_list(input_list: typing.List[float]) -> float:
     """
     returns sum of floats in input_list
     """
