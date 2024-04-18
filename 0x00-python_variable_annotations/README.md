@@ -4,16 +4,16 @@
 
 | Title | Project File |
 |:-----|:-----|
-|task 0|[0-add.py](https://github.com/inderitu/alx-backend-javascript/blob/main/0x00-python_variable_annotations/0-add.py)|
-|task 1|[1-concat.py](https://github.com/inderitu/alx-backend-javascript/blob/main/0x00-python_variable_annotations/1-concat.py)|
-|task 2|[2-floor.py](https://github.com/inderitu/alx-backend-javascript/blob/main/0x00-python_variable_annotations/2-floor.py)|
-|task 3|[3-to_str.py](https://github.com/inderitu/alx-backend-javascript/blob/main/0x00-python_variable_annotations/3-to_str.py)|
-|task 4|[4-define_variables.py](https://github.com/inderitu/alx-backend-javascript/blob/main/0x00-python_variable_annotations/4-define_variables.py)|
-|task 5|[5-sum_list.py](https://github.com/inderitu/alx-backend-javascript/blob/main/0x00-python_variable_annotations/5-sum_list.py)|
-|task 6|[6-sum_mixed_list.py](https://github.com/inderitu/alx-backend-javascript/blob/main/0x00-python_variable_annotations/6-sum_mixed_list.py)|
-|task 7|[7-to_kv.py](https://github.com/inderitu/alx-backend-javascript/blob/main/0x00-python_variable_annotations/7-to_kv.py)|
-|task 8|[8-make_multiplier.py](https://github.com/inderitu/alx-backend-javascript/blob/main/0x00-python_variable_annotations/8-make_multiplier.py)|
-|task 9|[9-element_length.py](https://github.com/inderitu/alx-backend-javascript/blob/main/0x00-python_variable_annotations/9-element_length.py)|
+|task 0|[0-add.py](https://github.com/inderitu/alx-backend-python/blob/main/0x00-python_variable_annotations/0-add.py)|
+|task 1|[1-concat.py](https://github.com/inderitu/alx-backend-python/blob/main/0x00-python_variable_annotations/1-concat.py)|
+|task 2|[2-floor.py](https://github.com/inderitu/alx-backend-python/blob/main/0x00-python_variable_annotations/2-floor.py)|
+|task 3|[3-to_str.py](https://github.com/inderitu/alx-backend-python/blob/main/0x00-python_variable_annotations/3-to_str.py)|
+|task 4|[4-define_variables.py](https://github.com/inderitu/alx-backend-python/blob/main/0x00-python_variable_annotations/4-define_variables.py)|
+|task 5|[5-sum_list.py](https://github.com/inderitu/alx-backend-python/blob/main/0x00-python_variable_annotations/5-sum_list.py)|
+|task 6|[6-sum_mixed_list.py](https://github.com/inderitu/alx-backend-python/blob/main/0x00-python_variable_annotations/6-sum_mixed_list.py)|
+|task 7|[7-to_kv.py](https://github.com/inderitu/alx-backend-python/blob/main/0x00-python_variable_annotations/7-to_kv.py)|
+|task 8|[8-make_multiplier.py](https://github.com/inderitu/alx-backend-python/blob/main/0x00-python_variable_annotations/8-make_multiplier.py)|
+|task 9|[9-element_length.py](https://github.com/inderitu/alx-backend-python/blob/main/0x00-python_variable_annotations/9-element_length.py)|
 
 ### 0. Basic annotations - add 
 
