@@ -24,7 +24,6 @@ def floor(n: float) -> int:
         ...
     TypeError: n must be of type float
 
-
     check for correct output
     >>> print(floor(3.14))
     3
